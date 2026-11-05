@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @AthlonHD
-- 👀 I’m interested in long socks 🧦 
-- 🌱 I’m currently learning java
-- 📫 mayday-lin@outlook.com
+(ｷ｀ﾟДﾟ´)!!
 
 <!---
 AthlonHD/AthlonHD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
